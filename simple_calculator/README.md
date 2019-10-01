@@ -1,2 +1,2 @@
 # simple_calculator
-a calculator that does very simple commands 
+a calculator that does very simple commands and things
