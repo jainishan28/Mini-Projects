@@ -2,9 +2,10 @@ from tkinter import *
 from tkinter import ttk 
 
 
+
 class Calculator:
 
-	calc_value = 0.0
+	calc_value=0.0
 	div_trigger = False
 	mult_trigger = False
 	add_trigger = False
